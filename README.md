@@ -1,3 +1,5 @@
+# Water tank control
+
 **📝 Overview**
 
 This repository showcases different approaches to water tank level control. It contains the final projects for three distinct control system disciplines: Dynamic Control, Discrete Control, and Adaptive Control. The entire project is developed as a complete simulation environment using MATLAB & Simulink.
