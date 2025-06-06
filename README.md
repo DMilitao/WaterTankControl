@@ -16,4 +16,5 @@ This works presents the identification and control strategy of a water tank syst
 This works presents the identification and control strategy of a water tank system composed by two coupled-tanks. The Recursive Least Square Method was introduced to identify an online ARX model of the system and recalculate the parameters of a RST controller of 1 and 2 degrees of freedom to control the tracking and regulation dynamics.
 
 **🛠️ Technologies & Tools**
+
 MATLAB / Simulink
